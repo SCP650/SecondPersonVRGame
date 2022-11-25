@@ -1,0 +1,71 @@
+trackSelection = true
+fetchPreview = true
+defaultFlags = 0
+keepOpen = false
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"last_search.EAB0C2BA" = "normcore"
+	"OpenInspectorPreview.EAB0C2BA" = "0"
+	"currentGroup.EAB0C2BA" = "all"
+}
+providers = {
+	adb = {
+		active = false
+		priority = 2500
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+}
+objectSelectors = {
+}
+recentSearches = [
+	"no"
+	"1/5 Overview Package Content Releases Reviews Publisher info Asset Quality  Normcore is the best way to add multiplayer to any project, whether you’re creating mobile games, the next esport title, enterprise collaboration tools, or any project with real-time communication. Normcore includes networked physics, persistent spaces, voice chat, and support for XR. Normcore is backed by state-of-the-art server infrastructure that scales automatically to millions of users.     Learn how to create your first Normcore app in 10 minutes.     Automatic Syncing  Add a RealtimeTransform component to any object to get automatic transform synchronization. No code needed.     Physics  State-of-the-art interpolation and robust networked physics. Get perfect movement on any connection.     Persistent Spaces  Any multiplayer object in Normcore can persist between sessions with a single click or a single line of code.     Voice Chat  Normcore is the only multiplayer framework that provides industry-standard VOIP and audio streaming capabilities. Add voice chat to any prefab with a single Unity component.     XR Compatible  Normcore is XR compatible out of the box. Create apps that work across all VR and AR devices without any changes to your code.      Extendable  Normcore ships with a clean and intuitive API. Easily create custom components to sync anything in your project.     Cross-Platform  Normcore supports nearly every platform that you can export a build for in Unity, making building cross-platform games and applications easier than ever.    Normcore Free"
+]
+searchItemFavorites = [
+]
+savedSearchesSortOrder = 0
+showSavedSearchPanel = false
+expandedQueries = [
+]
+queryBuilder = false
+ignoredProperties = "id;name;classname;imagecontentshash"
+helperWidgetCurrentArea = "all"
+disabledIndexers = ""
